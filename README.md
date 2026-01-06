@@ -22,13 +22,9 @@ This repository studies **post‑IPO abnormal return patterns** using a clean ev
 - **Beta estimation window:** months 31–60  
 - **Performance window:** months 1–30  
 - **Market model:**  
-  \[
-  R_{i,t} = \alpha_i + \beta_i R_{m,t} + \varepsilon_{i,t}
-  \]
+Ri,t​=αi​+βi​Rm,t​+εi,t​
   Abnormal return is the residual:  
-  \[
-  AR_{i,t} = R_{i,t} - (\hat{\alpha}_i + \hat{\beta}_i R_{m,t})
-  \]
+ARi,t​=Ri,t​−(α^i​+β^​i​Rm,t​)
 
 ## Project layout
 
