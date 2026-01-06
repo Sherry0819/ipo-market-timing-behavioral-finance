@@ -23,7 +23,8 @@ This repository studies **post‑IPO abnormal return patterns** using a clean ev
 - **Performance window:** months 1–30  
 - **Market model:**  
 Ri,t​=αi​+βi​Rm,t​+εi,t​
-  Abnormal return is the residual:  
+
+Abnormal return is the residual:  
 ARi,t​=Ri,t​−(α^i​+β^​i​Rm,t​)
 
 ## Project layout
